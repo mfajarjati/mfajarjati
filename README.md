@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 >Hi there! I'm Muhammad Fajar Jati Permana, a passionate enthusiast in Software Engineering and Data Science. I enjoy solving real-world problems through technology and leveraging data-driven solutions to make an impact.
+👋 Hi there! I'm Muhammad Fajar Jati Permana, a passionate enthusiast in Software Engineering and Data Science. I enjoy solving real-world problems through technology and leveraging data-driven solutions to make an impact.
 
 
 ## 🌐 Socials:
